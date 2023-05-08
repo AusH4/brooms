@@ -1,0 +1,26 @@
+.main_text {
+	color:red;
+}
+
+#table {
+	color: blue
+}
+
+div b, i{
+	color:green;
+}
+
+.verse {
+  display: table;
+  white-space: pre-line; /* не нужен <br> */ 
+  word-wrap: break-word; /* чтобы слова переносились на маленьком экране */ 
+}
+
+.main_link:hover {
+	color:red;
+	text-decoration:overline;
+}
+
+
+input {color: blue}
+input:focus {color: red}
